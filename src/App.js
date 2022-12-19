@@ -1,3 +1,10 @@
+/*
+ * @Author: Mia
+ * @Date: 2022-12-19 07:00:44
+ * @LastEditors: Mia
+ * @LastEditTime: 2022-12-19 07:52:02
+ * @Description: 
+ */
 import './App.css';
 
 function App() {
@@ -18,7 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React Happy
           </a>
         </p>
       </header>
